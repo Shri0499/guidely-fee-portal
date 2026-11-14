@@ -21,7 +21,7 @@ A two-sided web portal:
 
 ## The key product decision: no AI auto-approval
 
-I first planned to have AI read each uploaded UPI screenshot and mark the fee as paid automatically. I dropped it: an edited screenshot takes seconds to make, and AI can only read the image. It can't check that the money actually reached the bank. Instead, the admin gets a one-click Approve / Reject queue and checks the bank SMS first. That takes about 5 seconds per payment.
+I first planned to have AI read each uploaded UPI screenshot and mark the fee as paid automatically. I dropped it: an edited screenshot takes seconds to make, and AI can only read the image. It can't check that the money actually reached the bank. Instead, the admin gets a one-click Approve / Reject queue and checks the bank SMS first. That takes a few seconds per payment.
 
 ## Outcome
 
